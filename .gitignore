@@ -1,0 +1,9 @@
+extracted_source/
+bảo sâm nuôi nick lol.zip
+*.zip
+bin/
+obj/
+*.user
+packages/
+.vs/
+source_code/
